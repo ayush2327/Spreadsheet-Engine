@@ -3,7 +3,7 @@
 #include <vector>
 
 #include "Common.h"
-#include "segtree/SegTreeNode.h"
+#include "SegTreeNode.h"
 
 class SegTree
 {

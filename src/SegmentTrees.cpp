@@ -1,4 +1,4 @@
-#include "segtree/SegmentTrees.h"
+#include "SegmentTrees.h"
 
 #include <algorithm>
 #include <limits>

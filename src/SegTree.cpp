@@ -1,4 +1,4 @@
-#include "segtree/SegTree.h"
+#include "SegTree.h"
 
 #include <cassert>
 

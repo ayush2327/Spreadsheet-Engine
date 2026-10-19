@@ -1,6 +1,6 @@
 #pragma once
 
-#include "segtree/SegTree.h"
+#include "SegTree.h"
 
 class SumSegTree final : public SegTree
 {
